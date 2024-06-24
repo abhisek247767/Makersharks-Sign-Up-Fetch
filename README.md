@@ -13,7 +13,7 @@ This is a Spring Boot application that provides RESTful endpoints for user regis
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/abhisek247767/Makersharks-Sign-Up-Fetch.git
 cd yourrepository
 ```
 
